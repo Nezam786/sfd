@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.youlikehits.com	TRUE	/	FALSE	1999999999	PHPSESSID	82764a6bf4fdf82f70b0a7387406658b
+www.youlikehits.com	TRUE	/	FALSE	1999999999	LBSESSIONID	A|YrXVK|YrXUz
+
